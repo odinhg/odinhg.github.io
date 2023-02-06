@@ -11,42 +11,90 @@
 !_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220828.0/
 00e61c84	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="00e61c84"\/>$/;"	I
 021912f4	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="021912f4"\/>$/;"	I
+06b0fbcf	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="06b0fbcf"\/>$/;"	I
+0f38f2f7	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="0f38f2f7"\/>$/;"	I
 143495ea	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="143495ea"\/>$/;"	I
 1d94992b	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="1d94992b"\/>$/;"	I
 1e049fd9	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="1e049fd9"\/>$/;"	I
+28e73d10	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="28e73d10"\/>$/;"	I
+296d403b	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="296d403b"\/>$/;"	I
 367c0f01	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="367c0f01"\/>$/;"	I
+3a9f7722	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="3a9f7722"\/>$/;"	I
 517dfb60	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="517dfb60"\/>$/;"	I
+51beee3a	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="51beee3a"\/>$/;"	I
+56ca176e	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="56ca176e"\/>$/;"	I
+5b76d6dc	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="5b76d6dc"\/>$/;"	I
+5d2f6153	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="5d2f6153"\/>$/;"	I
 72759170	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="72759170"\/>$/;"	I
+7a9bd824	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="7a9bd824"\/>$/;"	I
 8b223172	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="8b223172"\/>$/;"	I
+8d7def08	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="8d7def08"\/>$/;"	I
+91dd1fbe	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="91dd1fbe"\/>$/;"	I
 9447d5fd	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="9447d5fd"\/>$/;"	I
+9bcc302e	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="9bcc302e"\/>$/;"	I
 Additional exercises	MNF130/week5.html	/^<h2 id="additional-exercises">Additional exercises<\/h2>$/;"	i
+Additional exercises	MNF130/week6.html	/^<h2 id="additional-exercises">Additional exercises<\/h2>$/;"	i
 Assignment - Week 5	MNF130/week5.html	/^<h2 id="assignment-week-5">Assignment - Week 5<\/h2>$/;"	i
+Assignment - Week 6	MNF130/week6.html	/^<h2 id="assignment-week-6">Assignment - Week 6<\/h2>$/;"	i
 Assignment Week 5	MNF130/week5.html	/^						<title>Assignment Week 5<\/title>$/;"	j
+Assignment Week 6	MNF130/week6.html	/^						<title>Assignment Week 6<\/title>$/;"	j
+Group sessions	MNF130/index.html	/^    <h2>Group sessions<\/h2>$/;"	i
+MNF130	MNF130/index.html	/^	<title>MNF130<\/title>$/;"	j
 MNF130 (Diskrete strukturar, Gruppe 3 og 9)	MNF130/week5.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 (Diskret/;"	h
-MNF130 - Diskrete strukturar	MNF130/index.html	/^<h1>MNF130 - Diskrete strukturar<\/h1>$/;"	h
+MNF130 - Diskrete strukturar	MNF130/index.html	/^    <h1>MNF130 - Diskrete strukturar<\/h1>$/;"	h
+MNF130 - Diskrete strukturar (Gruppe 3 og 9)	MNF130/week6.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 - Diskre/;"	h
 Prove the four logical equivalences and give concrete examples of the two non-equivalences on the last slide for 1.4 &quot;Predicate and Quantifiers&quot;.	MNF130/week5.html	/^<h3 id="prove-the-four-logical-equivalences-and-give-concrete-examples-of-the-two-non-equivalenc/;"	j
+Recreate and understand the proofs from 1.7 &quot;Introduction to Proofs and Proof Methods&quot;	MNF130/week6.html	/^<h3 id="recreate-and-understand-the-proofs-from-17-introduction-to-proofs-and-proof-methods">Rec/;"	j
 Section 1.4 (Edition 8, pg 56-60) 1, 2, 9, 15, 62	MNF130/week5.html	/^<h2 id="section-14-edition-8-pg-56-60-1-2-9-15-62">Section 1.4 (Edition 8, pg 56-60) 1, 2, 9, 15/;"	i
 Section 1.4 (Global edition, 7, pg 50-52) 1, 2, 7, 10, 36	MNF130/week5.html	/^<h2 id="section-14-global-edition-7-pg-50-52-1-2-7-10-36">Section 1.4 (Global edition, 7, pg 50-/;"	i
 Section 1.5 (Edition 8, pg 68-72) 3, 17, 33, 47	MNF130/week5.html	/^<h2 id="section-15-edition-8-pg-68-72-3-17-33-47">Section 1.5 (Edition 8, pg 68-72) 3, 17, 33, 4/;"	i
 Section 1.5 (Global edition, 7, pg 60-62) 2, 9,17, 26	MNF130/week5.html	/^<h2 id="section-15-global-edition-7-pg-60-62-2-917-26">Section 1.5 (Global edition, 7, pg 60-62)/;"	i
-Solutions and hints to weekly assignments.	MNF130/index.html	/^<h2>Solutions and hints to weekly assignments.<\/h2>$/;"	i
+Section 1.6 (Edition 8, pg 82-84) 3, 14, 19, 23	MNF130/week6.html	/^<h2 id="section-16-edition-8-pg-82-84-3-14-19-23">Section 1.6 (Edition 8, pg 82-84) 3, 14, 19, 2/;"	i
+Section 1.6 (Global edition, 7, pg 74-76) 2, 8, 13, 17	MNF130/week6.html	/^<h2 id="section-16-global-edition-7-pg-74-76-2-8-13-17">Section 1.6 (Global edition, 7, pg 74-76/;"	i
+Section 1.7 (Edition 8, pg 95-96) 21, 36, 43	MNF130/week6.html	/^<h2 id="section-17-edition-8-pg-95-96-21-36-43">Section 1.7 (Edition 8, pg 95-96) 21, 36, 43<\/h/;"	i
+Section 1.8 (Edition 8, pg 113-115) 5, 15, 26	MNF130/week6.html	/^<h2 id="section-18-edition-8-pg-113-115-5-15-26">Section 1.8 (Edition 8, pg 113-115) 5, 15, 26<\//;"	i
+Section 1.8 (Global edition, 7, pg 93-94) 11, 20, 21	MNF130/week6.html	/^<h2 id="section-18-global-edition-7-pg-93-94-11-20-21">Section 1.8 (Global edition, 7, pg 93-94)/;"	i
+Section 1.9 (Global edition, 7, pg 110-111) 3, 9, 16	MNF130/week6.html	/^<h2 id="section-19-global-edition-7-pg-110-111-3-9-16">Section 1.9 (Global edition, 7, pg 110-11/;"	i
+Solutions and hints to weekly assignments	MNF130/index.html	/^    <h2>Solutions and hints to weekly assignments<\/h2>$/;"	i
+Solve the exercises on the last slide of 1.6 &quot;Rules of inference&quot;	MNF130/week6.html	/^<h3 id="solve-the-exercises-on-the-last-slide-of-16-rules-of-inference">Solve the exercises on t/;"	j
 Use De Morgan&apos;s laws to derive the negation of any nesting of existential and universal quantifiers applied to P(x,y) (see the end of 1.5 &quot;Nested Quantifiers&quot;).	MNF130/week5.html	/^<h3 id="use-de-morgans-laws-to-derive-the-negation-of-any-nesting-of-existential-and-universal-q/;"	j
 a3209732	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="a3209732"\/>$/;"	I
+aa443a4a	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="aa443a4a"\/>$/;"	I
 additional-exercises	MNF130/week5.html	/^<h2 id="additional-exercises">Additional exercises<\/h2>$/;"	I
+additional-exercises	MNF130/week6.html	/^<h2 id="additional-exercises">Additional exercises<\/h2>$/;"	I
 assignment-week-5	MNF130/week5.html	/^<h2 id="assignment-week-5">Assignment - Week 5<\/h2>$/;"	I
+assignment-week-6	MNF130/week6.html	/^<h2 id="assignment-week-6">Assignment - Week 6<\/h2>$/;"	I
+b03239d2	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="b03239d2"\/>$/;"	I
+b6a13278	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="b6a13278"\/>$/;"	I
 b9903aa8	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="b9903aa8"\/>$/;"	I
+c011a0fe	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="c011a0fe"\/>$/;"	I
+c0128479	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="c0128479"\/>$/;"	I
 c6ed5c5e	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="c6ed5c5e"\/>$/;"	I
 d7bb1ab6	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="d7bb1ab6"\/>$/;"	I
+df947afe	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="df947afe"\/>$/;"	I
 e04176ce	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="e04176ce"\/>$/;"	I
+e2a8f921	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="e2a8f921"\/>$/;"	I
 e2da3fd5	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="e2da3fd5"\/>$/;"	I
+ebfc2d05	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="ebfc2d05"\/>$/;"	I
 mnf130-diskrete-strukturar-gruppe-3-og-9	MNF130/week5.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 (Diskret/;"	I
+mnf130-diskrete-strukturar-gruppe-3-og-9	MNF130/week6.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 - Diskre/;"	I
 prove-the-four-logical-equivalences-and-give-concrete-examples-of-the-two-non-equivalences-on-the-last-slide-for-14-predicate-and-quantifiers	MNF130/week5.html	/^<h3 id="prove-the-four-logical-equivalences-and-give-concrete-examples-of-the-two-non-equivalenc/;"	I
+recreate-and-understand-the-proofs-from-17-introduction-to-proofs-and-proof-methods	MNF130/week6.html	/^<h3 id="recreate-and-understand-the-proofs-from-17-introduction-to-proofs-and-proof-methods">Rec/;"	I
 rendered-md	MNF130/week5.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 (Diskret/;"	I
+rendered-md	MNF130/week6.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 - Diskre/;"	I
 section-14-edition-8-pg-56-60-1-2-9-15-62	MNF130/week5.html	/^<h2 id="section-14-edition-8-pg-56-60-1-2-9-15-62">Section 1.4 (Edition 8, pg 56-60) 1, 2, 9, 15/;"	I
 section-14-global-edition-7-pg-50-52-1-2-7-10-36	MNF130/week5.html	/^<h2 id="section-14-global-edition-7-pg-50-52-1-2-7-10-36">Section 1.4 (Global edition, 7, pg 50-/;"	I
 section-15-edition-8-pg-68-72-3-17-33-47	MNF130/week5.html	/^<h2 id="section-15-edition-8-pg-68-72-3-17-33-47">Section 1.5 (Edition 8, pg 68-72) 3, 17, 33, 4/;"	I
 section-15-global-edition-7-pg-60-62-2-917-26	MNF130/week5.html	/^<h2 id="section-15-global-edition-7-pg-60-62-2-917-26">Section 1.5 (Global edition, 7, pg 60-62)/;"	I
+section-16-edition-8-pg-82-84-3-14-19-23	MNF130/week6.html	/^<h2 id="section-16-edition-8-pg-82-84-3-14-19-23">Section 1.6 (Edition 8, pg 82-84) 3, 14, 19, 2/;"	I
+section-16-global-edition-7-pg-74-76-2-8-13-17	MNF130/week6.html	/^<h2 id="section-16-global-edition-7-pg-74-76-2-8-13-17">Section 1.6 (Global edition, 7, pg 74-76/;"	I
+section-17-edition-8-pg-95-96-21-36-43	MNF130/week6.html	/^<h2 id="section-17-edition-8-pg-95-96-21-36-43">Section 1.7 (Edition 8, pg 95-96) 21, 36, 43<\/h/;"	I
+section-18-edition-8-pg-113-115-5-15-26	MNF130/week6.html	/^<h2 id="section-18-edition-8-pg-113-115-5-15-26">Section 1.8 (Edition 8, pg 113-115) 5, 15, 26<\//;"	I
+section-18-global-edition-7-pg-93-94-11-20-21	MNF130/week6.html	/^<h2 id="section-18-global-edition-7-pg-93-94-11-20-21">Section 1.8 (Global edition, 7, pg 93-94)/;"	I
+section-19-global-edition-7-pg-110-111-3-9-16	MNF130/week6.html	/^<h2 id="section-19-global-edition-7-pg-110-111-3-9-16">Section 1.9 (Global edition, 7, pg 110-11/;"	I
+solve-the-exercises-on-the-last-slide-of-16-rules-of-inference	MNF130/week6.html	/^<h3 id="solve-the-exercises-on-the-last-slide-of-16-rules-of-inference">Solve the exercises on t/;"	I
 spoiler-block-body	MNF130/week5.html	/^<div class="summary-content" id="spoiler-block-body">$/;"	I
+spoiler-block-body	MNF130/week6.html	/^<div class="summary-content" id="spoiler-block-body">$/;"	I
 spoiler-block-title	MNF130/week5.html	/^<label class="summary-title" id="spoiler-block-title" for="00e61c84">Solution<\/label>$/;"	I
 spoiler-block-title	MNF130/week5.html	/^<label class="summary-title" id="spoiler-block-title" for="021912f4">Solution<\/label>$/;"	I
 spoiler-block-title	MNF130/week5.html	/^<label class="summary-title" id="spoiler-block-title" for="143495ea">Solution<\/label>$/;"	I
@@ -63,4 +111,25 @@ spoiler-block-title	MNF130/week5.html	/^<label class="summary-title" id="spoiler
 spoiler-block-title	MNF130/week5.html	/^<label class="summary-title" id="spoiler-block-title" for="d7bb1ab6">Solution<\/label>$/;"	I
 spoiler-block-title	MNF130/week5.html	/^<label class="summary-title" id="spoiler-block-title" for="e04176ce">Hint<\/label>$/;"	I
 spoiler-block-title	MNF130/week5.html	/^<label class="summary-title" id="spoiler-block-title" for="e2da3fd5">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="06b0fbcf">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="0f38f2f7">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="28e73d10">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="296d403b">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="3a9f7722">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="51beee3a">Hint (This one might be a b/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="56ca176e">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="5b76d6dc">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="5d2f6153">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="7a9bd824">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="8d7def08">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="91dd1fbe">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="9bcc302e">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="aa443a4a">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="b03239d2">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="b6a13278">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="c011a0fe">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="c0128479">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="df947afe">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="e2a8f921">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week6.html	/^<label class="summary-title" id="spoiler-block-title" for="ebfc2d05">Solution<\/label>$/;"	I
 use-de-morgans-laws-to-derive-the-negation-of-any-nesting-of-existential-and-universal-quantifiers-applied-to-pxy-see-the-end-of-15-nested-quantifiers	MNF130/week5.html	/^<h3 id="use-de-morgans-laws-to-derive-the-negation-of-any-nesting-of-existential-and-universal-q/;"	I
