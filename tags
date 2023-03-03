@@ -11,6 +11,8 @@
 !_TAG_PROGRAM_VERSION	5.9.0	/p5.9.20220828.0/
 00e61c84	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="00e61c84"\/>$/;"	I
 021912f4	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="021912f4"\/>$/;"	I
+0546478b	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="0546478b"\/>$/;"	I
+06b3cd7d	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="06b3cd7d"\/>$/;"	I
 06fc538a	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="06fc538a"\/>$/;"	I
 0aca8f75	MNF130/week7.html	/^<input class="spoiler-block-input" type="checkbox" id="0aca8f75"\/>$/;"	I
 0ad50cfb	MNF130/week8.html	/^<input class="spoiler-block-input" type="checkbox" id="0ad50cfb"\/>$/;"	I
@@ -19,27 +21,35 @@
 1c65e9e6	MNF130/week7.html	/^<input class="spoiler-block-input" type="checkbox" id="1c65e9e6"\/>$/;"	I
 1d94992b	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="1d94992b"\/>$/;"	I
 1e049fd9	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="1e049fd9"\/>$/;"	I
+22ad4d0a	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="22ad4d0a"\/>$/;"	I
 22fd70af	MNF130/week7.html	/^<input class="spoiler-block-input" type="checkbox" id="22fd70af"\/>$/;"	I
 249c277e	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="249c277e"\/>$/;"	I
 287450a1	MNF130/week7.html	/^<input class="spoiler-block-input" type="checkbox" id="287450a1"\/>$/;"	I
 301870c5	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="301870c5"\/>$/;"	I
 367c0f01	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="367c0f01"\/>$/;"	I
+3763dbf5	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="3763dbf5"\/>$/;"	I
 45c390c8	MNF130/week8.html	/^<input class="spoiler-block-input" type="checkbox" id="45c390c8"\/>$/;"	I
 49582fa2	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="49582fa2"\/>$/;"	I
+4c0b70e2	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="4c0b70e2"\/>$/;"	I
 4c3165e3	MNF130/week7.html	/^<input class="spoiler-block-input" type="checkbox" id="4c3165e3"\/>$/;"	I
 4d9f09de	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="4d9f09de"\/>$/;"	I
 517dfb60	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="517dfb60"\/>$/;"	I
 51e2c61f	MNF130/week8.html	/^<input class="spoiler-block-input" type="checkbox" id="51e2c61f"\/>$/;"	I
 58d4bff2	MNF130/week7.html	/^<input class="spoiler-block-input" type="checkbox" id="58d4bff2"\/>$/;"	I
+5aaf187a	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="5aaf187a"\/>$/;"	I
+5afa839e	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="5afa839e"\/>$/;"	I
 5c41a3e2	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="5c41a3e2"\/>$/;"	I
 5d636368	MNF130/week7.html	/^<input class="spoiler-block-input" type="checkbox" id="5d636368"\/>$/;"	I
 5f1d3f54	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="5f1d3f54"\/>$/;"	I
+617d277b	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="617d277b"\/>$/;"	I
 61de1029	MNF130/week7.html	/^<input class="spoiler-block-input" type="checkbox" id="61de1029"\/>$/;"	I
 6263feb9	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="6263feb9"\/>$/;"	I
 6280dd7f	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="6280dd7f"\/>$/;"	I
 71739e77	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="71739e77"\/>$/;"	I
 72759170	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="72759170"\/>$/;"	I
+7305e73d	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="7305e73d"\/>$/;"	I
 7353aabd	MNF130/week8.html	/^<input class="spoiler-block-input" type="checkbox" id="7353aabd"\/>$/;"	I
+7930e4dc	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="7930e4dc"\/>$/;"	I
 7a5d1e72	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="7a5d1e72"\/>$/;"	I
 7aa457c0	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="7aa457c0"\/>$/;"	I
 7ede6a1b	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="7ede6a1b"\/>$/;"	I
@@ -56,6 +66,7 @@
 9447d5fd	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="9447d5fd"\/>$/;"	I
 949cd4f0	MNF130/week7.html	/^<input class="spoiler-block-input" type="checkbox" id="949cd4f0"\/>$/;"	I
 98ede7e7	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="98ede7e7"\/>$/;"	I
+9a99c355	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="9a99c355"\/>$/;"	I
 9ae15afa	MNF130/week8.html	/^<input class="spoiler-block-input" type="checkbox" id="9ae15afa"\/>$/;"	I
 9af6bf3c	MNF130/week8.html	/^<input class="spoiler-block-input" type="checkbox" id="9af6bf3c"\/>$/;"	I
 9e0fdfc7	MNF130/week8.html	/^<input class="spoiler-block-input" type="checkbox" id="9e0fdfc7"\/>$/;"	I
@@ -63,19 +74,23 @@ Additional exercises	MNF130/week5.html	/^<h2 id="additional-exercises">Additiona
 Additional exercises	MNF130/week6.html	/^<h2 id="additional-exercises">Additional exercises<\/h2>$/;"	i
 Additional exercises	MNF130/week7.html	/^<h2 id="additional-exercises">Additional exercises<\/h2>$/;"	i
 Additional exercises	MNF130/week8.html	/^<h2 id="additional-exercises">Additional exercises<\/h2>$/;"	i
+Additional exercises	MNF130/week9.html	/^<h2 id="additional-exercises">Additional exercises<\/h2>$/;"	i
 Assignment - Week 5	MNF130/week5.html	/^<h2 id="assignment-week-5">Assignment - Week 5<\/h2>$/;"	i
 Assignment - Week 6	MNF130/week6.html	/^<h2 id="assignment-week-6">Assignment - Week 6<\/h2>$/;"	i
 Assignment - Week 7	MNF130/week7.html	/^<h2 id="assignment-week-7">Assignment - Week 7<\/h2>$/;"	i
 Assignment - Week 8	MNF130/week8.html	/^<h2 id="assignment-week-8">Assignment - Week 8<\/h2>$/;"	i
+Assignment - Week 9	MNF130/week9.html	/^<h2 id="assignment-week-9">Assignment - Week 9<\/h2>$/;"	i
 Assignment Week 5	MNF130/week5.html	/^						<title>Assignment Week 5<\/title>$/;"	j
 Assignment Week 6	MNF130/week6.html	/^						<title>Assignment Week 6<\/title>$/;"	j
 Assignment Week 7	MNF130/week7.html	/^						<title>Assignment Week 7<\/title>$/;"	j
 Assignment Week 8	MNF130/week8.html	/^						<title>Assignment Week 8<\/title>$/;"	j
+Assignment Week 9	MNF130/week9.html	/^						<title>Assignment Week 9<\/title>$/;"	j
 Group sessions	MNF130/index.html	/^    <h2>Group sessions<\/h2>$/;"	i
 Injective and surjective functions	MNF130/week7.html	/^<h2 id="injective-and-surjective-functions">Injective and surjective functions<\/h2>$/;"	i
 MNF130	MNF130/index.html	/^	<title>MNF130<\/title>$/;"	j
 MNF130 (Diskrete strukturar, Gruppe 3 og 9)	MNF130/week5.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 (Diskret/;"	h
 MNF130 - Diskrete strukturar	MNF130/index.html	/^    <h1>MNF130 - Diskrete strukturar<\/h1>$/;"	h
+MNF130 - Diskrete strukturar	MNF130/week9.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar">MNF130 - Diskrete strukturar</;"	h
 MNF130 - Diskrete strukturar (Gruppe 3 og 9)	MNF130/week6.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 - Diskre/;"	h
 MNF130 - Diskrete strukturar (Gruppe 3 og 9)	MNF130/week7.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 - Diskre/;"	h
 MNF130 - Diskrete strukturar (Gruppe 3 og 9)	MNF130/week8.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 - Diskre/;"	h
@@ -101,6 +116,8 @@ Section 2.4 (Edition 8, pg 177-179) 9, 11, 27, 31	MNF130/week8.html	/^<h2 id="se
 Section 3.1 (Edition 8, pg 213-216) 5, 31	MNF130/week8.html	/^<h2 id="section-31-edition-8-pg-213-216-5-31">Section 3.1 (Edition 8, pg 213-216) 5, 31<\/h2>$/;"	i
 Section 3.2 (Edition 8, pg 228-231) 21, 22, 73, 74	MNF130/week8.html	/^<h2 id="section-32-edition-8-pg-228-231-21-22-73-74">Section 3.2 (Edition 8, pg 228-231) 21, 22,/;"	i
 Section 3.3 (Edition 8, pg 241-244) 8, 14	MNF130/week8.html	/^<h2 id="section-33-edition-8-pg-241-244-8-14">Section 3.3 (Edition 8, pg 241-244) 8, 14<\/h2>$/;"	i
+Section 4.1 (Edition 8, side 258-259) 2, 11, 15, 21, 43	MNF130/week9.html	/^<h2 id="section-41-edition-8-side-258-259-2-11-15-21-43">Section 4.1 (Edition 8, side 258-259) 2/;"	i
+Section 4.2 (Edition 8, side 269-270) 1, 3, 9, 11, 64	MNF130/week9.html	/^<h2 id="section-42-edition-8-side-269-270-1-3-9-11-64">Section 4.2 (Edition 8, side 269-270) 1, /;"	i
 Solutions and hints to weekly assignments	MNF130/index.html	/^    <h2>Solutions and hints to weekly assignments<\/h2>$/;"	i
 Solve the exercises on the last slide of 1.6 &quot;Rules of inference&quot;	MNF130/week6.html	/^<h3 id="solve-the-exercises-on-the-last-slide-of-16-rules-of-inference">Solve the exercises on t/;"	j
 Some set operations visualized with Venn diagrams	MNF130/week7.html	/^<h2 id="some-set-operations-visualized-with-venn-diagrams">Some set operations visualized with V/;"	i
@@ -111,15 +128,20 @@ additional-exercises	MNF130/week5.html	/^<h2 id="additional-exercises">Additiona
 additional-exercises	MNF130/week6.html	/^<h2 id="additional-exercises">Additional exercises<\/h2>$/;"	I
 additional-exercises	MNF130/week7.html	/^<h2 id="additional-exercises">Additional exercises<\/h2>$/;"	I
 additional-exercises	MNF130/week8.html	/^<h2 id="additional-exercises">Additional exercises<\/h2>$/;"	I
+additional-exercises	MNF130/week9.html	/^<h2 id="additional-exercises">Additional exercises<\/h2>$/;"	I
+ae003a84	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="ae003a84"\/>$/;"	I
 assignment-week-5	MNF130/week5.html	/^<h2 id="assignment-week-5">Assignment - Week 5<\/h2>$/;"	I
 assignment-week-6	MNF130/week6.html	/^<h2 id="assignment-week-6">Assignment - Week 6<\/h2>$/;"	I
 assignment-week-7	MNF130/week7.html	/^<h2 id="assignment-week-7">Assignment - Week 7<\/h2>$/;"	I
 assignment-week-8	MNF130/week8.html	/^<h2 id="assignment-week-8">Assignment - Week 8<\/h2>$/;"	I
+assignment-week-9	MNF130/week9.html	/^<h2 id="assignment-week-9">Assignment - Week 9<\/h2>$/;"	I
 b164b6e8	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="b164b6e8"\/>$/;"	I
+b793ae27	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="b793ae27"\/>$/;"	I
 b8e5eed7	MNF130/week8.html	/^<input class="spoiler-block-input" type="checkbox" id="b8e5eed7"\/>$/;"	I
 b9903aa8	MNF130/week5.html	/^<input class="spoiler-block-input" type="checkbox" id="b9903aa8"\/>$/;"	I
 bb2e1d0f	MNF130/week7.html	/^<input class="spoiler-block-input" type="checkbox" id="bb2e1d0f"\/>$/;"	I
 bbd52597	MNF130/week7.html	/^<input class="spoiler-block-input" type="checkbox" id="bbd52597"\/>$/;"	I
+bcae0a8f	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="bcae0a8f"\/>$/;"	I
 bd6c6209	MNF130/week8.html	/^<input class="spoiler-block-input" type="checkbox" id="bd6c6209"\/>$/;"	I
 bea4005b	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="bea4005b"\/>$/;"	I
 c466b106	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="c466b106"\/>$/;"	I
@@ -141,9 +163,13 @@ e5b764f1	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" 
 ea104656	MNF130/week8.html	/^<input class="spoiler-block-input" type="checkbox" id="ea104656"\/>$/;"	I
 f045aafe	MNF130/week7.html	/^<input class="spoiler-block-input" type="checkbox" id="f045aafe"\/>$/;"	I
 f670ee89	MNF130/week8.html	/^<input class="spoiler-block-input" type="checkbox" id="f670ee89"\/>$/;"	I
+f9109394	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="f9109394"\/>$/;"	I
 f9be8003	MNF130/week6.html	/^<input class="spoiler-block-input" type="checkbox" id="f9be8003"\/>$/;"	I
 faeb1dd7	MNF130/week7.html	/^<input class="spoiler-block-input" type="checkbox" id="faeb1dd7"\/>$/;"	I
+fbe39cad	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="fbe39cad"\/>$/;"	I
+fd1ad8da	MNF130/week9.html	/^<input class="spoiler-block-input" type="checkbox" id="fd1ad8da"\/>$/;"	I
 injective-and-surjective-functions	MNF130/week7.html	/^<h2 id="injective-and-surjective-functions">Injective and surjective functions<\/h2>$/;"	I
+mnf130-diskrete-strukturar	MNF130/week9.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar">MNF130 - Diskrete strukturar</;"	I
 mnf130-diskrete-strukturar-gruppe-3-og-9	MNF130/week5.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 (Diskret/;"	I
 mnf130-diskrete-strukturar-gruppe-3-og-9	MNF130/week6.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 - Diskre/;"	I
 mnf130-diskrete-strukturar-gruppe-3-og-9	MNF130/week7.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 - Diskre/;"	I
@@ -154,6 +180,7 @@ rendered-md	MNF130/week5.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-di
 rendered-md	MNF130/week6.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 - Diskre/;"	I
 rendered-md	MNF130/week7.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 - Diskre/;"	I
 rendered-md	MNF130/week8.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar-gruppe-3-og-9">MNF130 - Diskre/;"	I
+rendered-md	MNF130/week9.html	/^<\/style><div id="rendered-md"><h1 id="mnf130-diskrete-strukturar">MNF130 - Diskrete strukturar</;"	I
 section-14-edition-8-pg-56-60-1-2-9-15-62	MNF130/week5.html	/^<h2 id="section-14-edition-8-pg-56-60-1-2-9-15-62">Section 1.4 (Edition 8, pg 56-60) 1, 2, 9, 15/;"	I
 section-14-global-edition-7-pg-50-52-1-2-7-10-36	MNF130/week5.html	/^<h2 id="section-14-global-edition-7-pg-50-52-1-2-7-10-36">Section 1.4 (Global edition, 7, pg 50-/;"	I
 section-15-edition-8-pg-68-72-3-17-33-47	MNF130/week5.html	/^<h2 id="section-15-edition-8-pg-68-72-3-17-33-47">Section 1.5 (Edition 8, pg 68-72) 3, 17, 33, 4/;"	I
@@ -174,12 +201,15 @@ section-24-edition-8-pg-177-179-9-11-27-31	MNF130/week8.html	/^<h2 id="section-2
 section-31-edition-8-pg-213-216-5-31	MNF130/week8.html	/^<h2 id="section-31-edition-8-pg-213-216-5-31">Section 3.1 (Edition 8, pg 213-216) 5, 31<\/h2>$/;"	I
 section-32-edition-8-pg-228-231-21-22-73-74	MNF130/week8.html	/^<h2 id="section-32-edition-8-pg-228-231-21-22-73-74">Section 3.2 (Edition 8, pg 228-231) 21, 22,/;"	I
 section-33-edition-8-pg-241-244-8-14	MNF130/week8.html	/^<h2 id="section-33-edition-8-pg-241-244-8-14">Section 3.3 (Edition 8, pg 241-244) 8, 14<\/h2>$/;"	I
+section-41-edition-8-side-258-259-2-11-15-21-43	MNF130/week9.html	/^<h2 id="section-41-edition-8-side-258-259-2-11-15-21-43">Section 4.1 (Edition 8, side 258-259) 2/;"	I
+section-42-edition-8-side-269-270-1-3-9-11-64	MNF130/week9.html	/^<h2 id="section-42-edition-8-side-269-270-1-3-9-11-64">Section 4.2 (Edition 8, side 269-270) 1, /;"	I
 solve-the-exercises-on-the-last-slide-of-16-rules-of-inference	MNF130/week6.html	/^<h3 id="solve-the-exercises-on-the-last-slide-of-16-rules-of-inference">Solve the exercises on t/;"	I
 some-set-operations-visualized-with-venn-diagrams	MNF130/week7.html	/^<h2 id="some-set-operations-visualized-with-venn-diagrams">Some set operations visualized with V/;"	I
 spoiler-block-body	MNF130/week5.html	/^<div class="summary-content" id="spoiler-block-body">$/;"	I
 spoiler-block-body	MNF130/week6.html	/^<div class="summary-content" id="spoiler-block-body">$/;"	I
 spoiler-block-body	MNF130/week7.html	/^<div class="summary-content" id="spoiler-block-body">$/;"	I
 spoiler-block-body	MNF130/week8.html	/^<div class="summary-content" id="spoiler-block-body">$/;"	I
+spoiler-block-body	MNF130/week9.html	/^<div class="summary-content" id="spoiler-block-body">$/;"	I
 spoiler-block-title	MNF130/week5.html	/^<label class="summary-title" id="spoiler-block-title" for="00e61c84">Solution<\/label>$/;"	I
 spoiler-block-title	MNF130/week5.html	/^<label class="summary-title" id="spoiler-block-title" for="021912f4">Solution<\/label>$/;"	I
 spoiler-block-title	MNF130/week5.html	/^<label class="summary-title" id="spoiler-block-title" for="143495ea">Solution<\/label>$/;"	I
@@ -260,4 +290,21 @@ spoiler-block-title	MNF130/week8.html	/^<label class="summary-title" id="spoiler
 spoiler-block-title	MNF130/week8.html	/^<label class="summary-title" id="spoiler-block-title" for="e012562e">Hint<\/label>$/;"	I
 spoiler-block-title	MNF130/week8.html	/^<label class="summary-title" id="spoiler-block-title" for="ea104656">Hint<\/label>$/;"	I
 spoiler-block-title	MNF130/week8.html	/^<label class="summary-title" id="spoiler-block-title" for="f670ee89">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="0546478b">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="06b3cd7d">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="22ad4d0a">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="3763dbf5">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="4c0b70e2">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="5aaf187a">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="5afa839e">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="617d277b">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="7305e73d">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="7930e4dc">Resources<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="9a99c355">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="ae003a84">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="b793ae27">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="bcae0a8f">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="f9109394">Hint<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="fbe39cad">Solution<\/label>$/;"	I
+spoiler-block-title	MNF130/week9.html	/^<label class="summary-title" id="spoiler-block-title" for="fd1ad8da">Solution<\/label>$/;"	I
 use-de-morgans-laws-to-derive-the-negation-of-any-nesting-of-existential-and-universal-quantifiers-applied-to-pxy-see-the-end-of-15-nested-quantifiers	MNF130/week5.html	/^<h3 id="use-de-morgans-laws-to-derive-the-negation-of-any-nesting-of-existential-and-universal-q/;"	I
