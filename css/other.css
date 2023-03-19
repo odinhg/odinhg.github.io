@@ -29,7 +29,7 @@
 
 .header-grid {
   display: grid; 
-  grid-template-columns: 1.0fr 0.2fr; 
+  grid-template-columns: 1.0fr 1.0fr; 
   grid-template-rows: 1fr; 
   gap: 0px 10px; 
   box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
@@ -39,7 +39,7 @@
 .header-grid-box{
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: right;
 }
 
 .header-grid-box > a:hover, :active, :focus{
@@ -69,7 +69,7 @@
 }
 
 .logo{
-  min-width: 200px;
+  min-width: 150px;
   width: 50%;
 }
 
