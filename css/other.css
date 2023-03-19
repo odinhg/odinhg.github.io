@@ -42,6 +42,10 @@
   justify-content: center;
 }
 
+.header-grid-box > a:hover, :active, :focus{
+  text-decoration: none;
+}
+
 .logo-box{
   display: flex;
   align-items: center;
