@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome! on Odin Hoff Gardå</title>
+    <link>http://localhost:1313/old/</link>
+    <description>Recent content in Welcome! on Odin Hoff Gardå</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/old/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/old/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/old/about/</guid>
+      <description>&lt;p&gt;Hello, It&amp;rsquo;s me, Odin!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/old/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/old/contact/</guid>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-envelope&#34;&gt;&lt;/i&gt;  Contact me at &lt;code&gt;odin.hoff.garda [at] proton.me&lt;/code&gt;,&lt;/p&gt;&#xA;&lt;p&gt;&lt;i class=&#34;fab fa-discord&#34;&gt;&lt;/i&gt;  add &lt;code&gt;pingu#8503&lt;/code&gt; on Discord,&lt;/p&gt;&#xA;&lt;p&gt;&lt;i class=&#34;fab fa-github&#34;&gt;&lt;/i&gt;  visit my &lt;a href=&#34;https://github.com/odinhg/&#34;&gt;GitHub&lt;/a&gt; or&lt;/p&gt;&#xA;&lt;p&gt;&lt;i class=&#34;fab fa-linkedin&#34;&gt;&lt;/i&gt;  have a look at my &lt;a href=&#34;https://www.linkedin.com/in/odin-gard%C3%A5-37b568269/&#34;&gt;LinkedIn profile&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
