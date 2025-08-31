@@ -221,3 +221,32 @@ blockquote {
 	font-style: italic;
 	background-color: var(--article-bg);
 }
+
+/* Small screens (phones) */
+@media (max-width: 600px) {
+    div.wrapper, footer {
+        width: 95%;   /* almost full width */
+        margin: 0 auto;
+    }
+
+    header, main {
+        padding: 5px;
+    }
+
+    article {
+        font-size: 16px;  /* smaller font for readability */
+        line-height: 1.5;
+        padding: 8px;
+        margin: 8px 0;
+    }
+}
+
+/* Medium screens (tablets) */
+@media (max-width: 900px) {
+    article {
+        font-size: 20px;
+        line-height: 1.4;
+        padding: 10px;
+    }
+}
+
