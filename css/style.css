@@ -211,3 +211,13 @@ hr {
 	border-top: 1px dashed var(--primary-color);
 	margin: 0; 
 }
+
+blockquote {
+	border-left: 4px solid var(--primary-color);
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-left: 10px;
+	color: var(--primary-color);
+	font-style: italic;
+	background-color: var(--article-bg);
+}
